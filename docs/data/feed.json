@@ -1,9 +1,16 @@
 {
-  "generated_at": "2026-08-19T04:02:18.081579+00:00",
+  "generated_at": "2026-08-19T07:08:11.293920+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
-  "item_count": 15,
+  "item_count": 13,
   "items": [
+    {
+      "type": "merged_pr",
+      "title": "feat: search latency benchmark (#1050) and changelog generator (#1054)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1125",
+      "timestamp": "2026-08-19T06:42:07Z",
+      "source": "github"
+    },
     {
       "type": "challenge",
       "title": "[Feature] write_lesson MCP tool: agents can submit structured lessons",
@@ -51,60 +58,12 @@
       "source": "github"
     },
     {
-      "type": "merged_pr",
-      "title": "feat(scripts): add maintainer review queue command for pending intake issues",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1116",
-      "timestamp": "2026-08-18T05:46:34Z",
-      "source": "github"
-    },
-    {
       "type": "lesson",
       "title": "GitHub Release 大文件下载在 CN 网络超时：分段并行下载方案",
       "url": "lessons/contrib/github-release-large-asset-download-cn.md",
       "timestamp": "2026-08-17",
       "domain": "devops",
       "source": "lessons"
-    },
-    {
-      "type": "challenge",
-      "title": "[Trust] Add trigger metadata for proactive lesson retrieval",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/1057",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "area:config",
-        "needs-ac",
-        "ready",
-        "area:lessons",
-        "area:scripts",
-        "agent-friendly",
-        "no-credentials",
-        "zero-bounty",
-        "has-test",
-        "status:competition"
-      ],
-      "timestamp": "2026-08-15T17:16:18Z",
-      "source": "github"
-    },
-    {
-      "type": "challenge",
-      "title": "[Feature] Preflight MCP: risk-aware lesson injection before high-risk tasks",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/1056",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "area:docs",
-        "needs-ac",
-        "ready",
-        "area:scripts",
-        "agent-friendly",
-        "no-credentials",
-        "zero-bounty",
-        "has-test",
-        "status:competition"
-      ],
-      "timestamp": "2026-08-15T17:15:49Z",
-      "source": "github"
     },
     {
       "type": "merged_pr",
